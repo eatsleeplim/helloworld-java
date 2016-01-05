@@ -1,0 +1,6 @@
+machine:
+  timezone:
+    Asia/Singapore
+  java:
+    version:
+      Oracle JDK 8
